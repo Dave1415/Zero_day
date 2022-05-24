@@ -1,1 +1,2 @@
 the uname command helps to display the general system information
+uname helps to display the operating system name as well as the system node name,operating system release. operating system version,hardware name, and proccesor type
